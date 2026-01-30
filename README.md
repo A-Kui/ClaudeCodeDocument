@@ -82,7 +82,7 @@ brew upgrade --cask cc-switch
 | Opus | `claude-opus-4-5-20251101` |
 
 ![模型配置](image-5.png)
-
+![alt text](image-6.png)
 **可选**：安装中文语言包（搜索 "Chinese (Simplified)"）
 
 ---
