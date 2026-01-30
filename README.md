@@ -66,7 +66,9 @@ brew upgrade --cask cc-switch
 
 ![初始化](image-8.png)
 ![配置完成](image-9.png)
-
+# 打开浏览器执行 
+# vscode://settings/claudeCode.disableLoginPrompt
+![alt text](image-11.png)
 #### 6. 配置 cc-switch 模型
 
 推荐配置：
