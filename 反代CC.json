@@ -1,0 +1,16 @@
+{
+  "env": {
+    "ANTHROPIC_AUTH_TOKEN": "sk-5e6ef128c9984bb888a91a5d0aed5069",
+    "ANTHROPIC_BASE_URL": "http://100.66.1.3:8045",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "gemini-3-pro-low",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "claude-opus-4-5-thinking",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "claude-sonnet-4-5-thinking",
+    "ANTHROPIC_MODEL": "claude-sonnet-4-5",
+    "ANTHROPIC_REASONING_MODEL": "claude-opus-4-5-thinking"
+  },
+  "permissions": {
+    "allow": [
+      "mcp__pencil"
+    ]
+  }
+}
