@@ -12,7 +12,7 @@
 
 ## 安装配置
 
-### 前置要求
+### 前置要求（不要使用香港，台湾节点）
 
 1. **网络环境**
    - 确保代理正常运行
@@ -69,20 +69,10 @@ brew upgrade --cask cc-switch
 # 打开浏览器执行 
 # vscode://settings/claudeCode.disableLoginPrompt
 ![alt text](image-11.png)
-#### 6. 配置 cc-switch 模型
-
-推荐配置：
-
-| 模型类型 | 模型 ID |
-|---------|---------|
-| 主模型 | `claude-sonnet-4-5-20250929` |
-| 推理模型 | `claude-sonnet-4-5-20250929` |
-| Sonnet | `claude-sonnet-4-5-20250929` |
-| Haiku | `claude-haiku-4-5-20251001` |
-| Opus | `claude-opus-4-5-20251101` |
-
-![模型配置](image-5.png)
-![alt text](image-6.png)
+# 6. 配置 cc-switch 模型
+## 直接点击👇调整复制配置JSON
+## [配置 cc-switch 模型JSON 文档教程](https://github.com/A-Kui/ClaudeCodeDocument/blob/main/%E9%85%8D%E7%BD%AEAPI%20%E6%A8%A1%E5%9E%8B.md)
+ 
 **可选**：安装中文语言包（搜索 "Chinese (Simplified)"）
 
 ---
