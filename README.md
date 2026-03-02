@@ -2,7 +2,6 @@
 
 > 📌 **重要提示**：国内用户需要配置代理访问
 
----
 
 ## 目录
 
@@ -13,6 +12,7 @@
   - [安装 cc-switch](#安装-cc-switch)
   - [安装 VSCode](#安装-vscode)
   - [安装 VSCode 插件](#安装-vscode-插件)
+  - [✅ **Vibe Coding 基础环境配置完成！**](#-vibe-coding-基础环境配置完成)
   - [更多资源](#更多资源)
 
 ---
@@ -75,6 +75,15 @@ brew upgrade --cask cc-switch
 ![安装 VSCode 所需插件](Codex/IMG/image.png)
 
 ---
+
+---
+## ✅ **Vibe Coding 基础环境配置完成！**
+
+接下来，请根据您的需求查看以下详细配置教程：
+
+- [Codex 安装配置，使用指南](Codex/Codex.md) - OpenAI Codex 插件配置
+- [Claude Code 安装配置，使用指南](Claude/Claude.md) - Claude Code 插件配置
+
 
 ## 更多资源
 
